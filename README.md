@@ -1,13 +1,12 @@
 ### Hi there, I'm Firede (Zhao Lei) 👋
 
-- 📫 How to reach me: [firede@firede.com](mailto:firede@firede.com)
-- 😄 Pronouns: he/him/他
-- 🔥 Fun fact: my username comes from the chinese word `火德`, not `fired`.
+<a href="https://github.com/firede">
+  <img src="https://github-readme-stats.vercel.app/api?username=firede&hide_title=true&hide_rank=true&count_private=true&hide=stars&show_icons=true&theme=dark" align="right" />
+</a>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+- 🏙 居住城市：中国合肥
+- 👔 主要角色：独立开发者 / 前端工程师 / 丈夫 / 父亲
+- ⏰ 高效时段：深夜 / 早晨
+- 💻 常用工具：VSCode, iTerm, Sketch, Safari
+- 🎯 近期关注：颜色理论、无障碍、应用数据层、UI框架
+- 📫 联系方式：[firede@firede.com](mailto:firede@firede.com)
