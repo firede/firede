@@ -1,12 +1,8 @@
 ### Hi there, I'm Firede (Zhao Lei) 👋
 
-<a href="https://github.com/firede">
-  <img src="https://github-readme-stats.vercel.app/api?username=firede&hide_title=true&hide_rank=true&count_private=true&hide=stars&show_icons=true&theme=dark" align="right" />
-</a>
-
-- 🏙 居住城市：深圳 / 合肥
-- 👔 主要角色：开发者 / 前端工程师 / 丈夫 / 父亲
-- ⏰ 高效时段：深夜 / 早晨
-- 💻 常用工具：VSCode, iTerm, Sketch, Safari
-- 🎯 近期关注：颜色理论、无障碍、应用数据层、UI框架
-- 📫 联系方式：[firede@firede.com](mailto:firede@firede.com)
+- 🏙 居住城市：合肥 / 深圳
+- 👔 主要角色：Developer, Designer, Startup Founder
+- 🎯 近期关注：Micro SaaS, Product design, Product community
+- ⏰ 高效时段：Midnight (UTC+08:00)
+- 📫 联系方式：firede@firede.com
+- 🚀 近期项目：Featone <img src="https://user-images.githubusercontent.com/157338/176654633-8f855878-ef64-4248-85a5-214154b2dbd8.png" width="24" align="center" alt="Featone" />
